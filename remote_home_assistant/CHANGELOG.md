@@ -1,3 +1,8 @@
+# 1.0.3
+
+- English: Rebuilt agent images to verify installation updates.
+- Polski: Przebudowano obrazy agenta do sprawdzenia aktualizacji instalacji.
+
 # 1.0.2
 
 - English: Install and update using pre-built images for AMD64 and ARM64.
