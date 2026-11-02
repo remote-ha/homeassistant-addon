@@ -1,0 +1,10 @@
+name: Verify app metadata
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - run: python3 scripts/check_release.py

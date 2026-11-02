@@ -1,0 +1,4 @@
+configuration:
+  pairing_token:
+    name: Token
+    description: Paste a new token from https://remote-ha.com, save and start or restart the app. Your connection is remembered automatically.
