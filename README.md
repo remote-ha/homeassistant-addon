@@ -12,7 +12,7 @@ A secure way back to your Home Assistant. Connect through an encrypted tunnel, c
 
 ### Register and install
 
-[Install with AI (in Polish)](./INSTALL_WITH_AI.md)
+[Install with AI](./INSTALL_WITH_AI.md)
 
 Create your account at [remote-ha.com/register](https://remote-ha.com/en/register), verify your email, and open the [dashboard](https://remote-ha.com/en/dashboard). Under **Add a home**, choose a name and an available address, then select **Add installation**.
 
@@ -86,7 +86,7 @@ Ein sicherer Weg zurück zu deinem Home Assistant. Verbinde dich über einen ver
 
 ### Konto erstellen und installieren
 
-[Mit KI installieren (auf Polnisch)](./INSTALL_WITH_AI.md)
+[Mit KI installieren](./INSTALL_WITH_AI.md)
 
 Erstelle dein Konto auf [remote-ha.com/register](https://remote-ha.com/de/register), bestätige deine E-Mail-Adresse und öffne das [Dashboard](https://remote-ha.com/de/dashboard). Gib unter **Zuhause hinzufügen** einen Namen ein, wähle eine verfügbare Adresse und klicke auf **Installation hinzufügen**.
 
@@ -123,7 +123,7 @@ Een veilige weg terug naar je Home Assistant. Maak verbinding via een versleutel
 
 ### Registreren en installeren
 
-[Installeren met AI (in het Pools)](./INSTALL_WITH_AI.md)
+[Installeren met AI](./INSTALL_WITH_AI.md)
 
 Maak je account aan op [remote-ha.com/register](https://remote-ha.com/nl/register), bevestig je e-mailadres en open het [dashboard](https://remote-ha.com/nl/dashboard). Vul bij **Huis toevoegen** een naam in, kies een beschikbaar adres en klik op **Installatie toevoegen**.
 
@@ -160,7 +160,7 @@ Retrouvez votre Home Assistant en toute sécurité. Connectez-vous via un tunnel
 
 ### Créer un compte et installer
 
-[Installer avec l’IA (en polonais)](./INSTALL_WITH_AI.md)
+[Installer avec l’IA](./INSTALL_WITH_AI.md)
 
 Créez votre compte sur [remote-ha.com/register](https://remote-ha.com/fr/register), confirmez votre adresse e-mail et ouvrez le [tableau de bord](https://remote-ha.com/fr/dashboard). Dans **Ajouter une maison**, saisissez un nom, choisissez une adresse disponible et cliquez sur **Ajouter une installation**.
 
@@ -197,7 +197,7 @@ Säker åtkomst till din Home Assistant, var du än är. Anslut via en krypterad
 
 ### Skapa ett konto och installera
 
-[Installera med AI (på polska)](./INSTALL_WITH_AI.md)
+[Installera med AI](./INSTALL_WITH_AI.md)
 
 Skapa ditt konto på [remote-ha.com/register](https://remote-ha.com/sv/register), verifiera din e-postadress och öppna [kontrollpanelen](https://remote-ha.com/sv/dashboard). Under **Lägg till ett hem** anger du ett namn, väljer en ledig adress och klickar på **Lägg till installation**.
 
