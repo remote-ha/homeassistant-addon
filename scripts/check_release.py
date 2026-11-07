@@ -8,7 +8,7 @@ root = Path(__file__).resolve().parents[1]
 app = root / "remote_home_assistant"
 allowed = {
     ".gitignore", ".github/workflows/verify.yaml", "scripts/check_release.py",
-    "README.md", "SECURITY.md", "LICENSE-FRP", "THIRD-PARTY-NOTICES.md",
+    "README.md", "INSTALL_WITH_AI.md", "SECURITY.md", "LICENSE-FRP", "THIRD-PARTY-NOTICES.md",
     "repository.yaml", "remote_home_assistant/config.yaml",
     "remote_home_assistant/CHANGELOG.md", "remote_home_assistant/README.md",
     "remote_home_assistant/DOCS.md",

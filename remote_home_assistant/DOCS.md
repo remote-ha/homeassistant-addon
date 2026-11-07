@@ -12,6 +12,8 @@ A secure way back to your Home Assistant. Connect through an encrypted tunnel, c
 
 ### Register and install
 
+[Install with AI (in Polish)](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
+
 Create your account at [remote-ha.com/register](https://remote-ha.com/en/register), verify your email, and open the [dashboard](https://remote-ha.com/en/dashboard). Under **Add a home**, choose a name and an available address, then select **Add installation**.
 
 Requires **Home Assistant OS**, an administrator account and an **aarch64 (ARM64)** or **amd64 (x86-64)** device. Home Assistant Container does not include the app store. Before Home Assistant 2026.2, **Apps** was called **Add-ons**.
@@ -54,6 +56,8 @@ Nowe konto otrzymuje **30 dni Pro za darmo**, z 2 instalacjami i bez karty. Po p
 Bezpieczny dostęp do Twojego Home Assistanta z dowolnego miejsca. Łącz się przez szyfrowany tunel, decyduj, kogo wpuszczasz, i zachowaj kontrolę nad swoim domem.
 
 ### Rejestracja i instalacja
+
+[Zainstaluj z pomocą AI](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
 
 Utwórz konto na [remote-ha.com/register](https://remote-ha.com/pl/register), potwierdź adres e-mail i otwórz [panel](https://remote-ha.com/pl/dashboard). W sekcji **Dodaj dom** wpisz nazwę, wybierz dostępny adres i kliknij **Dodaj instalację**.
 
@@ -98,6 +102,8 @@ Ein sicherer Weg zurück zu deinem Home Assistant. Verbinde dich über einen ver
 
 ### Konto erstellen und installieren
 
+[Mit KI installieren (auf Polnisch)](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
+
 Erstelle dein Konto auf [remote-ha.com/register](https://remote-ha.com/de/register), bestätige deine E-Mail-Adresse und öffne das [Dashboard](https://remote-ha.com/de/dashboard). Gib unter **Zuhause hinzufügen** einen Namen ein, wähle eine verfügbare Adresse und klicke auf **Installation hinzufügen**.
 
 Du benötigst **Home Assistant OS**, ein Administratorkonto und ein Gerät mit **aarch64 (ARM64)** oder **amd64 (x86-64)**. Home Assistant Container enthält keinen App-Store. Vor Home Assistant 2026.2 hieß **Apps** noch **Add-ons**.
@@ -140,6 +146,8 @@ Nieuwe accounts krijgen **30 dagen gratis Pro**, met 2 installaties en zonder be
 Een veilige weg terug naar je Home Assistant. Maak verbinding via een versleutelde tunnel, bepaal wie toegang krijgt en houd de controle over je huis.
 
 ### Registreren en installeren
+
+[Installeren met AI (in het Pools)](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
 
 Maak je account aan op [remote-ha.com/register](https://remote-ha.com/nl/register), bevestig je e-mailadres en open het [dashboard](https://remote-ha.com/nl/dashboard). Vul bij **Huis toevoegen** een naam in, kies een beschikbaar adres en klik op **Installatie toevoegen**.
 
@@ -184,6 +192,8 @@ Retrouvez votre Home Assistant en toute sécurité. Connectez-vous via un tunnel
 
 ### Créer un compte et installer
 
+[Installer avec l’IA (en polonais)](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
+
 Créez votre compte sur [remote-ha.com/register](https://remote-ha.com/fr/register), confirmez votre adresse e-mail et ouvrez le [tableau de bord](https://remote-ha.com/fr/dashboard). Dans **Ajouter une maison**, saisissez un nom, choisissez une adresse disponible et cliquez sur **Ajouter une installation**.
 
 Vous devez disposer de **Home Assistant OS**, d’un compte administrateur et d’un appareil **aarch64 (ARM64)** ou **amd64 (x86-64)**. Home Assistant Container ne comprend pas de boutique d’applications. Avant Home Assistant 2026.2, les **Apps** s’appelaient **Add-ons**.
@@ -227,6 +237,8 @@ Nya konton får **30 dagar gratis Pro**, med 2 installationer och utan kort. Dä
 Säker åtkomst till din Home Assistant, var du än är. Anslut via en krypterad tunnel, välj vem som får åtkomst och behåll kontrollen över ditt hem.
 
 ### Skapa ett konto och installera
+
+[Installera med AI (på polska)](https://github.com/remote-ha/homeassistant-addon/blob/main/INSTALL_WITH_AI.md)
 
 Skapa ditt konto på [remote-ha.com/register](https://remote-ha.com/sv/register), verifiera din e-postadress och öppna [kontrollpanelen](https://remote-ha.com/sv/dashboard). Under **Lägg till ett hem** anger du ett namn, väljer en ledig adress och klickar på **Lägg till installation**.
 
