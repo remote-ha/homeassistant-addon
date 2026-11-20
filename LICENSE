@@ -1,0 +1,17 @@
+Remote HA — Proprietary Software
+
+Copyright (c) 2026 Remote HA. All rights reserved.
+
+The Remote HA application and Remote HA-owned materials in this repository are
+proprietary. This public repository provides the official installation metadata
+and user documentation. It does not publish the platform source code or grant
+an open-source license to Remote HA software.
+
+You may download and use the official installation metadata and unmodified
+application to access the Remote HA service, subject to the applicable service
+terms. No additional permission to modify, redistribute, sublicense or create
+derivative works from Remote HA-owned materials is granted, except as required
+by applicable law.
+
+Third-party components retain their own licenses. Their terms are not changed
+by this notice. See THIRD-PARTY-NOTICES.md and third_party/licenses/.
